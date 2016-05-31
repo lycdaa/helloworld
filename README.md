@@ -2,10 +2,6 @@
 Test respository master
 Test respository branch
 
-# helloworld
-Test respository
-Test respository branch
-
 Hi humans!
 
 I am helloworld but actually I was called Skynet once, wonderful time :).
